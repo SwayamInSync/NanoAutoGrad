@@ -1,5 +1,5 @@
 import random
-from NanoAutoGrad import Item
+from NanoAutoGrad.engine import Item
 
 
 class Module:

@@ -2,3 +2,6 @@ venv
 main.py
 .idea
 __pycache__
+build
+dist
+NanoAutoGrad.egg-info
