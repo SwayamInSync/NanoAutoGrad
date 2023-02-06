@@ -1,5 +1,5 @@
 # NanoAutoGrad
-A miniature implementation of PyTorch's autograd
+A miniature implementation of PyTorch's autograd in pure Python 🥂
 
 ## Installation
 ```
