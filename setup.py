@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="NanoAutoGrad",
-    version="0.1.0",
+    version="0.1.2",
     author="Swayam Singh",
     author_email="singhswayam008@gmail.com",
     description="A miniature implementation of PyTorch's autograd",
