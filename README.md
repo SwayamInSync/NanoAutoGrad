@@ -46,7 +46,7 @@ model = MLP(4, [16, 16, 1])
 lr = 0.01
 
 # training loop
-epochs = 100
+epochs = 15
 losses = []
 for e in range(epochs):
     epoch_loss = 0.0
