@@ -7,6 +7,7 @@ A miniature implementation of PyTorch's autograd
 ```
 
 ## Usage:
+Calculating gradients of a function w.r.t input
 ```python
 from NanoAutoGrad.engine import Item
 
@@ -22,3 +23,6 @@ print(f"gradient w.r.t a: {a.grad}")
 print(f"gradient w.r.t b: {b.grad}")
 print(f"gradient w.r.t c: {c.grad}")
 ```
+
+Training small neural network
+**WIP
