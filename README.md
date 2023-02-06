@@ -1,6 +1,11 @@
 # NanoAutoGrad
 A miniature implementation of PyTorch's autograd
 
+## Installation
+```
+ pip install NanoAutoGrad
+```
+
 ## Usage:
 ```python
 from NanoAutoGrad.engine import Item
