@@ -22,6 +22,11 @@ e.backwards()
 print(f"gradient w.r.t a: {a.grad}")
 print(f"gradient w.r.t b: {b.grad}")
 print(f"gradient w.r.t c: {c.grad}")
+
+# ------- Outputs ------- 
+# gradient w.r.t a: 5
+# gradient w.r.t b: 3
+# gradient w.r.t c: 1
 ```
 
 Training small neural network
